@@ -1,0 +1,9 @@
+name: covid
+channels:
+  - conda-forge
+dependencies:
+  - hvplot
+  - matplotlib
+  - numpy
+  - pandas
+  
