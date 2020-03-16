@@ -10,3 +10,4 @@ dependencies:
   - nodejs
   - bokeh=1.4
   - holoviews
+  - panel
