@@ -11,3 +11,4 @@ dependencies:
   - bokeh=1.4
   - holoviews
   - panel=0.8.0
+  - jupyter_panel_proxy
