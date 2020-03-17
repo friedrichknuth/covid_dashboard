@@ -43,6 +43,17 @@ fig.savefig("plot.png")
 
 img_data = open('plot.png', 'rb').read()
 msg = EmailMessage()
+
+image_cid = 'https://img.shields.io/static/v1.svg?logo=Jupyter&label=Launch+App&message=AWS+us-west-2&color=green'
+
+msg.add_alternative("""\
+<html>
+    <body>
+    <a href="https://aws-uswest2-binder.pangeo.io/v2/gh/friedrichknuth/covid_dashboard/binder-app?urlpath=/proxy/5006/dashboard-panel"><img src="{image_cid}"></a>
+    </body>
+</html>
+""".format(image_cid=image_cid), subtype='html')
+
 msg.add_attachment(img_data, maintype='image',
                                  subtype=imghdr.what(None, img_data))
 
