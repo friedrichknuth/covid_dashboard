@@ -8,6 +8,6 @@ dependencies:
   - pandas
   - jupyterlab
   - nodejs
-  - bokeh=1.4
+  - bokeh
   - holoviews
   - panel
