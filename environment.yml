@@ -2,14 +2,13 @@ name: covid
 channels:
   - conda-forge
 dependencies:
-  - python=3.7
   - matplotlib
   - numpy
   - pandas
-  - jupyterlab=1
-  - bokeh=1.4
-  - holoviews=1.12
-  - hvplot=0.4
-  - panel=0.6
-  - jupyter-server-proxy=1
-  - nodejs=11
+  - jupyterlab
+  - bokeh
+  - holoviews
+  - hvplot
+  - panel
+  - jupyter-server-proxy
+  - nodejs
