@@ -3,7 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - hvplot
-  - bokeh=1.4
+  - bokeh
   - matplotlib
   - numpy
   - pandas
