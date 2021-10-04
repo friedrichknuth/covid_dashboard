@@ -2,7 +2,7 @@
 
 Launch notebook server
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/friedrichknuth/covid_dashboard.git/binder?urlpath=git-pull?repo=https://github.com/friedrichknuth/covid_dashboard)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/friedrichknuth/covid_dashboard.git/binder?urlpath=git-pull?repo=https://github.com/friedrichknuth/covid_dashboard?urlpath=/proxy/5006/dashboard-panel)
 
 Launch panel app:
 
