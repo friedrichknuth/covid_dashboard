@@ -14,4 +14,4 @@ If the above Binder does not work (it might be too busy), you can also try:
 
 Launch panel app:
 
-[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Launch+App&message=AWS+us-west-2&color=green)](https://mybinder.org/v2/gh/friedrichknuth/covid_dashboard.git/binder?urlpath=/proxy/5006/dashboard-panel)
+[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Launch+App&message=AWS+us-west-2&color=green)](https://aws-uswest2-binder.pangeo.io/v2/gh/friedrichknuth/covid_dashboard/binder?urlpath=/proxy/5006/dashboard-panel)
