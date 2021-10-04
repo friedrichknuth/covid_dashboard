@@ -12,3 +12,4 @@ dependencies:
   - panel
   - jupyter-server-proxy
   - nodejs
+  - nbgitpuller
