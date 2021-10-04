@@ -6,7 +6,7 @@ You can run the Jupyter notebooks in the `notebooks` folder right now on the Clo
 
 Launch panel app:
 
-[![badge](https://mybinder.org/badge_logo.svg?color=green)](https://mybinder.org/v2/gh/friedrichknuth/covid_dashboard/binder-app?urlpath=/proxy/5006/dashboard-panel?urlpath=git-pull?repo=https://github.com/friedrichknuth/covid_dashboard/)
+[![badge](https://mybinder.org/badge_logo.svg?logo=Jupyter&label=Launch+App&color=green)](https://mybinder.org/v2/gh/friedrichknuth/covid_dashboard/binder-app?urlpath=/proxy/5006/dashboard-panel?urlpath=git-pull?repo=https://github.com/friedrichknuth/covid_dashboard/)
 
 If the above Binder does not work (it might be too busy), you can also try:
 
