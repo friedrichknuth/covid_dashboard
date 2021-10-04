@@ -1,12 +1,12 @@
 # COVID-19 Interactive Jupyter Notebooks
 
-You can run the Jupyter notebooks in the `notebooks` folder right now on the Cloud by clicking this button:
+Launch notebook server
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/friedrichknuth/covid_dashboard.git/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/friedrichknuth/covid_dashboard.git/binder)
 
 Launch panel app:
 
-[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Launch+App&message=binder&color=green)](https://mybinder.org/v2/gh/friedrichknuth/covid_dashboard/binder?urlpath=/proxy/5006/dashboard-panel?)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/friedrichknuth/covid_dashboard.git/binder?urlpath=/proxy/5006/dashboard-panel)
 
 If the above Binder does not work (it might be too busy), you can also try:
 
