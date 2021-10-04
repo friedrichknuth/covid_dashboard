@@ -6,7 +6,7 @@ Launch notebook server
 
 Launch panel app:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/friedrichknuth/covid_dashboard/master?git-pull?repo=https://github.com/friedrichknuth/covid_dashboard?urlpath=/proxy/5009/covid-interactive)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/friedrichknuth/covid_dashboard/master?urlpath=/proxy/5009/covid-interactive)
 
 If the above Binder does not work (it might be too busy), you can also try:
 
