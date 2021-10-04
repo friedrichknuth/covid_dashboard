@@ -2,7 +2,7 @@
 
 Launch notebook server
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/friedrichknuth/covid_dashboard/master?urlpath=/proxy/5006/covid_interactive)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/friedrichknuth/covid_dashboard/master?urlpath=/proxy/5006/covid-interactive)
 
 Launch panel app:
 
@@ -10,7 +10,7 @@ Launch panel app:
 
 If the above Binder does not work (it might be too busy), you can also try:
 
-[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=AWS+us-west-2&color=orange)](https://aws-uswest2-binder.pangeo.io/v2/gh/friedrichknuth/covid_dashboard/binder?urlpath=git-pull?repo=https://github.com/friedrichknuth/covid_dashboard)
+[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=AWS+us-west-2&color=orange)](https://aws-uswest2-binder.pangeo.io/v2/gh/friedrichknuth/covid_dashboard/binder?urlpath=git-pull?repo=https://github.com/friedrichknuth/covid-dashboard)
 
 Launch panel app:
 
