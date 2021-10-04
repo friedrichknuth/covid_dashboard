@@ -2,7 +2,7 @@
 
 You can run the Jupyter notebooks in the `notebooks` folder right now on the Cloud by clicking this button:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/friedrichknuth/covid_dashboard/binder?urlpath=https://mybinder.org/v2/gh/friedrichknuth/covid_dashboard.git/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/friedrichknuth/covid_dashboard/binder?urlpath=git-pull?repo=https://mybinder.org/v2/gh/friedrichknuth/covid_dashboard)
 
 Launch panel app:
 
