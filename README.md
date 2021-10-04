@@ -2,7 +2,7 @@
 
 Launch notebook server
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/friedrichknuth/covid_dashboard/master?urlpath=/proxy/5006/covid-interactive)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/friedrichknuth/covid_dashboard/master?urlpath=/proxy/5009/covid-interactive)
 
 Launch panel app:
 
